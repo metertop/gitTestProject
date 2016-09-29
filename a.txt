@@ -4,4 +4,10 @@ Main(){
 
 method(){
 	print "this is a new function!"
+	2nd++;
+}
+
+
+show(){
+	print "this is a branch function!"
 }
